@@ -1,6 +1,7 @@
 # NgrxApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+This application have been managed the frontend state with the help of [NgRx](https://ngrx.io/) library.
 
 ## Development server
 
